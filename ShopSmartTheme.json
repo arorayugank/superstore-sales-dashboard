@@ -1,0 +1,14 @@
+{
+  "name": "ShopSmart Clean Theme",
+  "dataColors": [
+    "#007ACC",
+    "#28A745",
+    "#F39C12",
+    "#E74C3C",
+    "#17A2B8",
+    "#6C757D"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#333333",
+  "tableAccent": "#007ACC"
+}
